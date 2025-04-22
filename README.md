@@ -4,6 +4,8 @@
 
 ![JobPortal Screenshot](https://i.ibb.co.com/KzSdL1ZG/Job-Portal.png)
 
+---
+
 ## ✨ Features
 
 - 👤 **User Roles** – Separate dashboards and functionality for Job Seekers and Employers.
@@ -28,8 +30,6 @@
 
 ---
 
----
-
 ## 🚀 Installation
 
 ### Prerequisites
@@ -42,5 +42,3 @@
 ```bash
 git clone https://github.com/your-username/JobPortal.git
 cd JobPortal
-
-
