@@ -2,7 +2,7 @@
 
 **JobPortal** is a full-featured job listing and recruitment web application built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). It connects job seekers with recruiters, allowing users to search for jobs, apply, and manage applications, while employers can post and manage job listings.
 
-![Job Portal Screenshot](https://i.ibb.co.com/KzSdL1ZG/Job-Portal.png)
+![NeonStich Logo](https://i.ibb.co.com/V5d7y0Z/Neon-Stich.png)
 
 ---
 
