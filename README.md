@@ -2,9 +2,7 @@
 
 **JobPortal** is a full-featured job listing and recruitment web application built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). It connects job seekers with recruiters, allowing users to search for jobs, apply, and manage applications, while employers can post and manage job listings.
 
-![JobPortal Screenshot](https://i.ibb.co.com/KzSdL1ZG/Job-Portal.png)
-
-
+![Job Portal](https://i.ibb.co.com/KzSdL1ZG/Job-Portal.png)
 
 ---
 
@@ -43,4 +41,3 @@
 
 ```bash
 git clone https://github.com/your-username/JobPortal.git
-cd JobPortal
